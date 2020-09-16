@@ -1,0 +1,632 @@
+ID,Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Price
+563,Audi A3 35 TDI Technology,Delhi,2017,,Diesel,Automatic,Second,20.38,1968,143,5,22.5
+3069,Audi A4 1.8 TFSI Technology Edition,Hyderabad,2012,,Petrol,Automatic,First,15.64,1798,167.62,5,17.5
+1545,Audi A4 2.0 TDI,Mumbai,2013,,Diesel,Automatic,First,16.55,1968,147.51,5,13.5
+2524,Audi A4 2.0 TDI,Kolkata,2009,,Diesel,Automatic,First,16.55,1968,147.51,5,8.5
+416,Audi A4 2.0 TDI 177 Premium Plus,Kolkata,2013,,Diesel,Automatic,First,17.11,1968,174.33,5,14.5
+4813,Audi A4 2.0 TDI Multitronic,Delhi,2010,,Diesel,Automatic,First,16.55,1968,140,5,10
+1776,Audi A4 3.0 TDI Quattro,Coimbatore,2015,,Diesel,Automatic,First,14.94,2967,241.4,5,25.02
+3278,Audi A4 35 TDI Technology,Hyderabad,2017,,Diesel,Automatic,First,18.25,1968,187.74,5,43
+304,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,,Diesel,Automatic,First,17.68,1968,174.33,5,21.56
+3613,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,,Diesel,Automatic,First,17.68,1968,174.33,5,20.77
+3499,Audi A6 2011-2015 2.0 TDI Technology,Kochi,2015,,Diesel,Automatic,First,17.68,1968,174.33,5,26.78
+3252,Audi A6 2011-2015 35 TDI Premium,Coimbatore,2018,,Diesel,Automatic,First,17.68,1968,174.33,5,39.58
+386,Audi Q3 2.0 TDI,Hyderabad,2013,,Diesel,Automatic,First,17.32,1968,150,5,19
+805,Audi Q3 2.0 TDI,Bangalore,2014,,Diesel,Automatic,First,15.73,1968,174.33,5,21.75
+284,Audi Q3 2012-2015 2.0 TDI Quattro Premium Plus,Delhi,2013,,Diesel,Automatic,Second,15.73,1968,174.33,5,14.5
+3303,Audi Q3 2012-2015 35 TDI Quattro Premium,Mumbai,2015,,Diesel,Automatic,First,15.73,1968,174.33,5,18.75
+980,Audi Q5 30 TDI quattro Premium,Mumbai,2015,,Diesel,Automatic,First,14.16,1968,174.3,5,25.49
+382,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2014,,Diesel,Automatic,First,12.07,2967,241.4,7,32.52
+2122,Audi Q7 3.0 TDI Quattro Technology,Pune,2008,,Diesel,Automatic,Second,12.07,2967,241.4,7,18
+3339,Audi Q7 3.0 TDI Quattro Technology,Hyderabad,2012,,Diesel,Automatic,First,12.07,2967,241.4,7,36.5
+95,Audi Q7 35 TDI Quattro Technology,Bangalore,2015,,Diesel,Automatic,Second,12.07,2967,241.4,7,52.5
+2615,Audi Q7 4.2 TDI Quattro Technology,Coimbatore,2016,,Diesel,Automatic,First,11.33,4134,335.2,7,48.91
+4379,Audi TT 2.0 TFSI,Kochi,2014,,Petrol,Automatic,First,9.9,1984,207.8,2,27.35
+4942,BMW 1 Series 118d Sport Line,Hyderabad,2013,,Diesel,Automatic,Second,20.58,1995,143,5,17
+1570,BMW 3 Series 320d,Ahmedabad,2011,,Diesel,Automatic,Second,22.69,1995,190,5,10.9
+2588,BMW 3 Series 320d,Bangalore,2012,,Diesel,Automatic,First,22.69,1995,190,5,12.5
+3174,BMW 3 Series 320d,Kochi,2012,,Diesel,Automatic,First,22.69,1995,190,5,11.5
+1983,BMW 3 Series 320d Highline,Delhi,2011,,Diesel,Automatic,First,16.07,1995,181,5,10.5
+3642,BMW 3 Series 320d Highline,Pune,2011,,Diesel,Automatic,Second,16.07,1995,181,5,10.5
+3811,BMW 3 Series 320d Luxury Line,Kochi,2013,,Diesel,Automatic,First,22.69,1995,190,5,13.95
+3840,BMW 3 Series 320d Sport,Mumbai,2012,,Diesel,Automatic,Third,22.69,1995,190,5,15
+824,BMW 3 Series 320i Sedan,Kolkata,2011,,Petrol,Automatic,First,12.05,1995,154,5,9.75
+4562,BMW 3 Series Luxury Line,Kochi,2018,,Diesel,Automatic,First,21.76,1995,190,5,37.92
+1696,BMW 3 Series Sport,Mumbai,2016,,Diesel,Automatic,Second,21.76,1995,190,5,29.99
+259,BMW 5 Series 2003-2012 520d,Mumbai,2013,,Diesel,Automatic,First,18.48,1995,177,5,19.5
+4359,BMW 5 Series 2003-2012 523i,Kolkata,2011,,Petrol,Automatic,First,10.8,2497,150,5,13.5
+192,BMW 5 Series 2007-2010 525d Sedan,Delhi,2012,,Diesel,Automatic,Second,16.73,2495,218,5,15.5
+4955,BMW 5 Series 2013-2017 520d Luxury Line,Ahmedabad,2014,,Diesel,Automatic,Second,18.12,1995,190,5,23
+1470,BMW 5 Series 520d Sedan,Delhi,2012,,Diesel,Automatic,First,18.48,1995,181,5,14.5
+3095,BMW 6 Series 640d Gran Coupe,Mumbai,2011,,Diesel,Automatic,First,9.52,2993,313,4,49
+4777,BMW 7 Series 730Ld Sedan,Mumbai,2007,,Diesel,Automatic,Second,16.46,2993,258,5,9.5
+1000,BMW X1 M Sport sDrive 20d,Kochi,2017,,Diesel,Automatic,First,17.05,1995,190,5,30.29
+223,BMW X1 sDrive 20d xLine,Coimbatore,2015,,Diesel,Automatic,Second,20.68,1995,190,5,22.24
+1725,BMW X1 sDrive20d,Pune,2011,,Diesel,Automatic,Second,17.05,1995,184,5,10.95
+4685,BMW X1 sDrive20d,Mumbai,2013,,Diesel,Automatic,First,17.05,1995,184,5,17.5
+2049,BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Hyderabad,2016,,Diesel,Automatic,First,15.97,2993,258,7,58
+2038,BMW X5 xDrive 30d,Chennai,2009,,Diesel,Automatic,First,11.7,2993,245,5,20
+2654,BMW X6 xDrive 40d M Sport,Chennai,2016,,Diesel,Automatic,First,15.87,2993,308.43,5,60
+1171,Chevrolet Aveo U-VA 1.2 LS,Jaipur,2007,,Petrol,Manual,First,15.26,1150,74.9,5,0.9
+4539,Chevrolet Aveo U-VA 1.2 LS,Pune,2007,,Petrol,Manual,First,15.26,1150,74.9,5,1.3
+2137,Chevrolet Beat Diesel,Hyderabad,2011,,Diesel,Manual,First,25.44,936,57.6,5,2.5
+2405,Chevrolet Beat Diesel LS,Bangalore,2015,,Diesel,Manual,First,25.44,936,56.3,5,2.35
+3194,Chevrolet Beat Diesel LS,Kolkata,2013,,Diesel,Manual,First,25.44,936,57.6,5,2.8
+910,Chevrolet Beat Diesel LT,Bangalore,2012,,Diesel,Manual,First,25.44,936,57.6,5,2.65
+2672,Chevrolet Beat Diesel LT,Mumbai,2013,,Diesel,Manual,First,25.44,936,57.6,5,2.65
+3965,Chevrolet Beat LS,Chennai,2010,,Petrol,Manual,First,18.6,1199,79.4,5,2.19
+371,Chevrolet Cruze LTZ,Chennai,2011,,Diesel,Manual,Third,18.3,1991,147.9,5,4.2
+4561,Chevrolet Cruze LTZ,Jaipur,2017,,Diesel,Manual,First,17.9,1998,163.7,5,7.75
+2952,Chevrolet Enjoy TCDi LS 8 Seater,Coimbatore,2014,,Diesel,Manual,First,18.2,1248,73.8,8,3.88
+1671,Chevrolet Sail 1.2 LS,Jaipur,2013,,Petrol,Manual,First,18.2,1199,82.4,5,3.25
+4156,Datsun redi-GO T,Kolkata,2016,,Petrol,Manual,First,22.7,799,53.64,5,2.25
+752,Fiat Linea Classic Plus 1.3 Multijet,Jaipur,2013,,Diesel,Manual,Second,19.5,1248,75,5,2.5
+1451,Fiat Punto EVO 1.2 Emotion,Hyderabad,2010,,Petrol,Manual,First,15.7,1172,67,5,2.6
+862,Force One LX 4x4,Kolkata,2014,,Diesel,Manual,First,17,2200,139.01,7,8
+4091,Force One LX 4x4,Chennai,2014,,Diesel,Manual,First,17,2200,139.01,7,12
+1218,Force One LX ABS 7 Seating,Kolkata,2014,,Diesel,Manual,First,17,2149,139.07,7,8
+4766,Ford EcoSport 1.0 Ecoboost Titanium Plus,Mumbai,2017,,Petrol,Manual,First,18.88,999,123.24,5,8.5
+3769,Ford EcoSport 1.5 Diesel Titanium,Mumbai,2017,,Diesel,Manual,First,23,1498,98.96,5,8.99
+1984,Ford EcoSport 1.5 Diesel Titanium Plus,Chennai,2016,,Diesel,Manual,First,23,1498,98.96,5,7.7
+1413,Ford Ecosport 1.5 DV5 MT Titanium,Hyderabad,2013,,Diesel,Manual,First,22.7,1498,89.84,5,7.2
+1497,Ford Ecosport 1.5 DV5 MT Titanium,Kolkata,2013,,Diesel,Manual,First,22.7,1498,89.84,5,4.9
+2007,Ford Ecosport 1.5 DV5 MT Titanium,Kolkata,2014,,Diesel,Manual,First,22.7,1498,89.84,5,5.49
+2402,Ford Ecosport 1.5 DV5 MT Titanium,Hyderabad,2014,,Diesel,Manual,First,22.7,1498,89.84,5,6.25
+3889,Ford Ecosport 1.5 DV5 MT Titanium,Hyderabad,2017,,Diesel,Manual,First,22.7,1498,89.84,5,9.5
+81,Ford Ecosport 1.5 DV5 MT Titanium Optional,Mumbai,2014,,Diesel,Manual,First,22.7,1498,89.84,5,6.5
+3179,Ford Ecosport 1.5 DV5 MT Titanium Optional,Mumbai,2017,,Diesel,Manual,First,22.7,1498,89.84,5,8.75
+4159,Ford Ecosport 1.5 DV5 MT Titanium Optional,Mumbai,2014,,Diesel,Manual,First,22.7,1498,89.84,5,6.25
+252,Ford EcoSport 1.5 Petrol Titanium,Pune,2018,,Petrol,Manual,First,17,1497,121.36,5,9.2
+697,Ford EcoSport 1.5 TDCi Trend,Delhi,2016,,Diesel,Manual,First,22.77,1498,98.59,5,7.25
+1774,Ford EcoSport 1.5 Ti VCT AT Titanium,Hyderabad,2016,,Petrol,Automatic,First,15.63,1499,110.4,5,8.3
+911,Ford EcoSport 1.5 Ti VCT MT Titanium BE,Mumbai,2016,,Petrol,Manual,First,18.88,1499,110.4,5,6.9
+4461,Ford Endeavour 2.5L 4X2,Bangalore,2011,,Diesel,Manual,Third,13.1,2499,141,7,6.95
+4903,Ford Endeavour 3.2 Trend AT 4X4,Jaipur,2016,,Diesel,Automatic,First,10.91,3198,197.2,7,26
+3359,Ford Endeavour XLT TDCi 4X2,Chennai,2007,,Diesel,Manual,First,13.1,2499,141,7,5.5
+956,Ford Fiesta 1.4 ZXi TDCi ABS,Chennai,2009,,Diesel,Manual,First,17.8,1399,68,5,2.75
+2888,Ford Fiesta 1.5 TDCi Titanium,Hyderabad,2014,,Diesel,Manual,First,25.01,1498,89.75,5,5.65
+3047,Ford Fiesta Classic 1.4 Duratorq LXI,Kochi,2015,,Diesel,Manual,First,18.6,1388,67,5,3.82
+3052,Ford Fiesta Diesel Style,Chennai,2013,,Diesel,Manual,First,23.5,1498,88.7,5,3.5
+2671,Ford Fiesta EXi 1.4 TDCi Ltd,Hyderabad,2009,,Diesel,Manual,First,17.8,1399,68,5,2.8
+3547,Ford Figo 1.5D Trend MT,Kolkata,2015,,Diesel,Manual,First,25.83,1498,99,5,4.8
+3413,Ford Figo 2015-2019 1.2P Titanium MT,Hyderabad,2018,,Petrol,Manual,First,18.16,1196,86.8,5,6.8
+4092,Ford Figo 2015-2019 1.2P Trend MT,Coimbatore,2017,,Petrol,Manual,First,18.16,1196,86.8,5,4.95
+270,Ford Figo Diesel EXI,Jaipur,2012,,Diesel,Manual,First,20,1399,68,5,2.51
+1724,Ford Figo Diesel Titanium,Hyderabad,2012,,Diesel,Manual,Second,20,1399,68,5,2.6
+1915,Ford Figo Diesel Titanium,Pune,2011,,Diesel,Manual,Third,20,1399,68,5,2.35
+2966,Ford Figo Diesel ZXI,Delhi,2014,,Diesel,Manual,First,20,1399,68.05,5,3.47
+4481,Ford Ikon 1.4 TDCi DuraTorq,Jaipur,2010,,Diesel,Manual,Second,13.8,1399,68,5,1
+4919,Ford Ikon 1.4 TDCi DuraTorq,Bangalore,2009,,Diesel,Manual,First,13.8,1399,68,5,1.99
+2986,Ford Ikon 1.6 CLXI,Pune,2003,,Petrol,Manual,Second,14.2,1597,92,5,0.85
+1384,Honda Accord 2.4 Elegance M/T,Hyderabad,2010,,Petrol,Manual,First,10.2,2354,180,5,5.95
+250,Honda Accord 2.4 Inspire M/T,Mumbai,2012,,Petrol,Manual,First,9.8,2354,180,5,6.25
+3739,Honda Accord VTi-L MT,Mumbai,2007,,Petrol,Manual,Third,11.9,2354,144,5,1.85
+3142,Honda Amaze S AT i-Vtech,Mumbai,2014,,Petrol,Automatic,First,15.5,1198,86.7,5,4.75
+4585,Honda Amaze S i-DTEC,Ahmedabad,2014,,Diesel,Manual,Second,25.8,1498,98.6,5,4.5
+1931,Honda Amaze S i-Dtech,Bangalore,2013,,Diesel,Manual,First,25.8,1498,98.6,5,4.75
+3994,Honda Amaze S i-Dtech,Delhi,2015,,Diesel,Manual,First,25.8,1498,98.6,5,4.45
+4420,Honda Amaze S i-Dtech,Delhi,2013,,Diesel,Manual,First,25.8,1498,98.6,5,3.65
+40,Honda Amaze S i-VTEC,Kochi,2017,,Petrol,Manual,First,17.8,1198,86.7,5,5.53
+1755,Honda Amaze S i-Vtech,Kochi,2015,,Petrol,Manual,First,18,1198,86.7,5,5.09
+4146,Honda Amaze S Petrol,Jaipur,2014,,Petrol,Manual,First,19.5,1199,88.76,5,4.5
+1089,Honda Amaze SX i-DTEC,Kolkata,2014,,Diesel,Manual,First,25.8,1498,98.6,5,3.7
+4452,Honda Amaze SX i-VTEC,Mumbai,2016,,Petrol,Manual,First,17.8,1198,86.7,5,5
+2293,Honda Amaze V CVT Petrol,Pune,2018,,Petrol,Automatic,First,19,1199,88.76,5,7.8
+650,Honda Amaze V Petrol,Jaipur,2018,,Petrol,Manual,First,19.5,1199,86.76,5,6.7
+3457,Honda Amaze VX Petrol,Mumbai,2014,,Petrol,Manual,First,19.5,1199,86.76,5,4.75
+1506,Honda Brio S MT,Delhi,2015,,Petrol,Manual,First,19.4,1198,86.8,5,3.8
+1668,Honda Brio S MT,Mumbai,2012,,Petrol,Manual,Second,19.4,1198,86.8,5,2.5
+2807,Honda Brio S MT,Mumbai,2013,,Petrol,Manual,First,19.4,1198,86.8,5,3.15
+3679,Honda Brio S MT,Ahmedabad,2012,,Petrol,Manual,First,19.4,1198,86.8,5,3.65
+2528,Honda Brio V MT,Mumbai,2013,,Petrol,Manual,First,19.4,1198,86.8,5,3.25
+4680,Honda Brio V MT,Bangalore,2012,,Petrol,Manual,Second,19.4,1198,86.8,5,3.65
+2936,Honda City 1.3 EXI S,Delhi,2011,,Petrol,Manual,First,13,1343,90,5,3.5
+172,Honda City 1.5 S AT,Mumbai,2013,,Petrol,Automatic,First,16.8,1497,118,5,4.5
+4820,Honda City 1.5 S MT,Delhi,2012,,Petrol,Manual,Second,17,1497,118,5,4.25
+3783,Honda City 1.5 V AT,Kochi,2014,,Petrol,Automatic,First,16.8,1497,118,5,5.91
+4155,Honda City 1.5 V AT,Delhi,2011,,Petrol,Automatic,First,16.8,1497,118,5,4.45
+2239,Honda City 1.5 V AT Sunroof,Kolkata,2012,,Petrol,Automatic,First,16.8,1497,116.3,5,4.49
+2447,Honda City 1.5 V AT Sunroof,Kochi,2016,,Petrol,Automatic,First,16.8,1497,116.3,5,8.73
+19,Honda City 1.5 V MT,Hyderabad,2011,,Petrol,Manual,First,17,1497,118,5,5.5
+3807,Honda City 1.5 V MT,Delhi,2010,,Petrol,Manual,First,17,1497,118,5,3.5
+1986,Honda City 1.5 V MT Exclusive,Coimbatore,2012,,Petrol,Manual,First,17,1497,118,5,5.65
+433,Honda City i DTec SV,Delhi,2015,,Diesel,Manual,First,26,1498,98.6,5,7
+2764,Honda City i DTEC SV,Hyderabad,2014,,Diesel,Manual,First,26,1498,98.6,5,6.75
+3770,Honda City i DTec V,Ahmedabad,2016,,Diesel,Manual,First,26,1498,98.6,5,7.25
+2156,Honda City i DTEC VX,Chennai,2014,,Diesel,Manual,Second,25.1,1498,98.6,5,6.2
+2460,Honda City i DTEC VX,Kochi,2017,,Diesel,Manual,First,25.1,1498,98.6,5,9.44
+4211,Honda City i DTEC VX,Jaipur,2014,,Diesel,Manual,First,25.1,1498,98.6,5,6.75
+1843,Honda City i VTEC SV,Pune,2016,,Petrol,Manual,First,17.8,1497,117.3,5,7
+3746,Honda City i VTEC V,Bangalore,2015,,Petrol,Manual,First,17.4,1497,117.3,5,7.8
+4235,Honda City i VTEC V,Mumbai,2015,,Petrol,Manual,First,17.8,1497,117.3,5,7.1
+2721,Honda City i-VTEC CVT VX,Mumbai,2015,,Petrol,Automatic,First,18,1497,117.3,5,8.95
+4810,Honda City i-VTEC S,Mumbai,2015,,Petrol,Manual,First,17.4,1497,117.3,5,6.51
+570,Honda City i-VTEC V,Mumbai,2017,,Petrol,Manual,First,17.4,1497,117.3,5,8.5
+2910,Honda City i-VTEC VX,Ahmedabad,2012,,Petrol,Manual,First,17.4,1497,117.3,5,5.75
+2306,Honda City V MT,Pune,2013,,Petrol,Manual,First,16.8,1497,116.3,5,6.25
+4588,Honda City ZX GXi,Kolkata,2008,,Petrol,Manual,First,17.7,1497,78,5,2.7
+2257,Honda Civic 2006-2010 1.8 S MT,Ahmedabad,2007,,Petrol,Manual,First,13.5,1799,130,5,4.9
+4709,Honda Civic 2006-2010 1.8 V AT,Hyderabad,2008,,Petrol,Automatic,Second,12.9,1799,130,5,3
+4555,Honda Civic 2006-2010 1.8 V MT,Coimbatore,2009,,Petrol,Manual,First,13.5,1799,130,5,4.41
+2938,Honda CR-V 2.0 AT,Jaipur,2014,,Petrol,Automatic,First,13.1,1997,141.1,5,10.5
+108,Honda CR-V 2.4 AT,Delhi,2010,,Petrol,Automatic,Second,10.1,2354,152,5,4.8
+3384,Honda CR-V 2.4L 4WD AT,Mumbai,2007,,Petrol,Automatic,First,11.1,2354,158.8,5,3.7
+3971,Honda CR-V 2.4L 4WD AT AVN,Kolkata,2013,,Petrol,Automatic,Second,12,2354,187.4,5,12.5
+4575,Honda Jazz 1.2 SV i VTEC,Kochi,2017,,Petrol,Manual,First,18.7,1199,88.7,5,6.14
+4057,Honda Jazz 1.5 SV i DTEC,Mumbai,2016,,Diesel,Manual,First,27.3,1498,98.6,5,6.25
+4641,Honda Jazz Active,Kolkata,2010,,Petrol,Manual,First,16,1198,90,5,1.99
+1879,Honda Jazz V CVT,Hyderabad,2015,,Petrol,Automatic,First,19,1199,88.7,5,7.25
+603,Honda Jazz VX Diesel,Hyderabad,2017,,Diesel,Manual,First,27.3,1498,98.6,5,8.4
+4902,Honda Mobilio RS i DTEC,Chennai,2014,,Diesel,Manual,First,24.5,1498,98.6,7,6.9
+3756,Honda Mobilio S i DTEC,Kolkata,2015,,Diesel,Manual,First,24.2,1498,98.6,7,4.7
+12,Honda WRV i-VTEC VX,Hyderabad,2017,,Petrol,Manual,First,17.5,1199,88.7,5,8.9
+703,Hyundai Accent GLE,Delhi,2012,,Petrol,Manual,First,13.2,1495,94,5,2.45
+3469,Hyundai Accent GLE,Hyderabad,2004,,Petrol,Manual,First,13.2,1495,94,5,0.6
+3911,Hyundai Accent GLE,Kolkata,2005,,Petrol,Manual,First,13.2,1495,94,5,0.9
+2674,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2019,,Diesel,Manual,First,20.5,1582,126.2,5,16.27
+3908,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2017,,Diesel,Manual,First,20.5,1582,126.2,5,11.45
+547,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Mumbai,2015,,Petrol,Manual,First,15.29,1591,121.3,5,9.5
+706,Hyundai Creta 1.6 VTVT S,Pune,2016,,Petrol,Manual,First,15.29,1591,121.3,5,12.5
+3226,Hyundai EON D Lite Plus,Coimbatore,2013,,Petrol,Manual,Second,21.1,814,55.2,5,3.69
+669,Hyundai EON Era Plus,Kochi,2015,,Petrol,Manual,First,21.1,814,55.2,5,3.45
+1077,Hyundai EON Era Plus,Kochi,2018,,Petrol,Manual,First,21.1,814,55.2,5,3.69
+1109,Hyundai EON Era Plus,Kochi,2016,,Petrol,Manual,First,21.1,814,55.2,5,4.38
+4565,Hyundai Getz GLS ABS,Pune,2005,,Petrol,Manual,Third,16.8,1341,83,5,0.8
+1823,Hyundai Grand i10 1.2 Kappa Asta,Coimbatore,2016,,Petrol,Manual,First,18.9,1197,81.86,5,5.89
+912,Hyundai Grand i10 1.2 Kappa Magna,Kolkata,2018,,Petrol,Manual,First,18.9,1197,81.86,5,4.8
+2432,Hyundai Grand i10 1.2 Kappa Sportz,Mumbai,2018,,Petrol,Manual,First,18.9,1197,81.86,5,5.55
+3919,Hyundai Grand i10 1.2 Kappa Sportz Option,Coimbatore,2019,,Petrol,Manual,First,18.9,1197,81.86,5,6.44
+3025,Hyundai Grand i10 Asta Option,Bangalore,2015,,Petrol,Manual,First,18.9,1197,82,5,5.75
+1487,Hyundai Grand i10 Asta Option AT,Kochi,2017,,Petrol,Automatic,First,18.9,1197,82,5,5.99
+3086,Hyundai Grand i10 Asta Option AT,Coimbatore,2017,,Petrol,Automatic,First,18.9,1197,82,5,6.89
+3395,Hyundai Grand i10 AT Asta,Coimbatore,2017,,Petrol,Automatic,First,18.9,1197,82,5,6.93
+812,Hyundai Grand i10 CRDi Magna,Jaipur,2015,,Diesel,Manual,Second,24,1120,70,5,4
+3991,Hyundai Grand i10 CRDi Magna,Delhi,2014,,Diesel,Manual,First,24,1120,70,5,3.5
+265,Hyundai Grand i10 CRDi Sportz,Kolkata,2014,,Diesel,Manual,First,24,1120,70,5,3.75
+3883,Hyundai Grand i10 CRDi Sportz,Delhi,2013,,Diesel,Manual,First,24,1120,70,5,3.71
+3835,Hyundai Grand i10 Magna,Kolkata,2016,,Petrol,Manual,First,18.9,1197,82,5,3.75
+996,Hyundai Grand i10 Sportz,Kochi,2016,,Petrol,Manual,First,18.9,1197,82,5,4.78
+2309,Hyundai Grand i10 Sportz,Coimbatore,2017,,Petrol,Manual,First,18.9,1197,82,5,6.04
+4368,Hyundai Grand i10 Sportz,Kolkata,2018,,Petrol,Manual,First,18.9,1197,82,5,5.1
+3286,Hyundai Grand i10 SportZ Edition,Bangalore,2015,,Petrol,Manual,First,18.9,1197,81.86,5,4.75
+2189,Hyundai i10 Asta Sunroof AT,Mumbai,2011,,Petrol,Automatic,First,19.2,1197,80,5,2.9
+2165,Hyundai i10 Era 1.1 iTech SE,Kochi,2012,,Petrol,Manual,First,19.81,1086,68.05,5,2.97
+1037,Hyundai i10 Magna,Ahmedabad,2014,,Petrol,Manual,First,20.36,1197,78.9,5,3.75
+3070,Hyundai i10 Magna,Mumbai,2011,,Petrol,Manual,First,20.36,1197,78.9,5,2.65
+3887,Hyundai i10 Magna,Coimbatore,2011,,Petrol,Manual,First,20.36,1197,78.9,5,3.65
+4398,Hyundai i10 Magna 1.1,Kochi,2015,,Petrol,Manual,First,19.81,1086,68.05,5,3.55
+2057,Hyundai i10 Magna 1.2,Jaipur,2013,,Petrol,Manual,Second,20.36,1197,78.9,5,3
+1870,Hyundai i10 Magna AT,Kochi,2010,,Petrol,Automatic,First,19.2,1197,80,5,3.32
+4652,Hyundai i10 Magna(O) with Sun Roof,Pune,2008,,Petrol,Manual,Second,16,1086,66.7,5,2
+3332,Hyundai i10 Sportz,Delhi,2012,,Petrol,Manual,First,20.36,1197,78.9,5,2.85
+3537,Hyundai i10 Sportz,Kolkata,2016,,Petrol,Manual,First,20.36,1197,78.9,5,3.6
+3764,Hyundai i10 Sportz 1.1L,Kolkata,2016,,Petrol,Manual,First,19.81,1086,68.05,5,3.59
+1820,Hyundai i10 Sportz 1.2,Hyderabad,2013,,Petrol,Manual,First,20.36,1197,78.9,5,3.45
+4411,Hyundai i10 Sportz 1.2,Kolkata,2015,,Petrol,Manual,First,20.36,1197,78.9,5,2.85
+2370,Hyundai i10 Sportz 1.2 AT,Pune,2013,,Petrol,Automatic,First,16.95,1197,78.9,5,3.65
+164,Hyundai i10 Sportz AT,Ahmedabad,2012,,Petrol,Automatic,First,16.95,1197,78.9,5,3.41
+1097,Hyundai i10 Sportz AT,Chennai,2013,,Petrol,Automatic,First,16.95,1197,78.9,5,3.96
+2036,Hyundai i10 Sportz AT,Ahmedabad,2012,,Petrol,Automatic,First,16.95,1197,78.9,5,3.5
+1316,Hyundai i20 1.2 Asta,Delhi,2013,,Petrol,Manual,First,17,1197,80,5,3.65
+1881,Hyundai i20 1.2 Magna,Kochi,2014,,Petrol,Manual,First,18.5,1197,80,5,4.07
+3450,Hyundai i20 1.2 Magna,Kolkata,2011,,Petrol,Manual,First,18.5,1197,80,5,2.5
+4309,Hyundai i20 1.2 Magna,Coimbatore,2013,,Petrol,Manual,First,18.5,1197,80,5,5.15
+1934,Hyundai i20 1.2 Sportz,Hyderabad,2012,,Petrol,Manual,First,17,1197,80,5,4
+557,Hyundai i20 1.2 Spotz,Chennai,2017,,Petrol,Manual,First,18.6,1197,81.83,5,6.95
+1056,Hyundai i20 1.2 Spotz,Mumbai,2017,,Petrol,Manual,First,18.6,1197,81.83,5,6.22
+3158,Hyundai i20 1.2 Spotz,Kochi,2018,,Petrol,Manual,First,18.6,1197,81.83,5,7.65
+2776,Hyundai i20 1.4 CRDi Magna,Hyderabad,2011,,Diesel,Manual,First,21.9,1396,90,5,3.75
+580,Hyundai i20 1.4 CRDi Sportz,Pune,2011,,Diesel,Manual,Second,23,1396,90,5,3.8
+2577,Hyundai i20 2015-2017 1.4 Magna ABS,Pune,2012,,Diesel,Manual,First,21.9,1396,90,5,4.25
+3466,Hyundai i20 Active 1.2 SX,Coimbatore,2017,,Petrol,Manual,First,17.19,1197,81.86,5,8.19
+1945,Hyundai i20 Active SX Dual Tone Petrol,Pune,2019,,Petrol,Manual,First,17.19,1197,81.86,5,8.6
+4220,Hyundai i20 Asta 1.2,Mumbai,2014,,Petrol,Manual,First,18.5,1197,82.85,5,4.65
+1471,Hyundai i20 Asta Option 1.2,Mumbai,2015,,Petrol,Manual,First,18.6,1197,81.83,5,5.5
+4356,Hyundai i20 Asta Option 1.2,Hyderabad,2017,,Petrol,Manual,First,18.6,1197,81.83,5,6.95
+3396,Hyundai i20 Magna,Kolkata,2009,,Petrol,Manual,First,18.5,1197,80,5,2.25
+4405,Hyundai i20 Magna 1.4 CRDi,Delhi,2015,,Diesel,Manual,First,22.54,1396,88.73,5,5.35
+60,Hyundai i20 Magna Optional 1.2,Bangalore,2013,,Petrol,Manual,First,18.5,1197,82.9,5,4.45
+3845,Hyundai i20 Magna Optional 1.4 CRDi,Mumbai,2014,,Diesel,Manual,First,21.9,1396,88.8,5,4.65
+4678,Hyundai i20 Sportz 1.2,Delhi,2015,,Petrol,Manual,First,18.6,1197,81.83,5,4.95
+3380,Hyundai i20 Sportz 1.4 CRDi,Kolkata,2013,,Diesel,Manual,First,21.9,1396,88.76,5,3.55
+3475,Hyundai i20 Sportz 1.4 CRDi,Bangalore,2013,,Diesel,Manual,First,21.9,1396,88.76,5,5.45
+4511,Hyundai i20 Sportz 1.4 CRDi,Pune,2012,,Diesel,Manual,Second,21.9,1396,88.76,5,4.18
+4385,Hyundai i20 Sportz AT 1.4,Coimbatore,2014,,Petrol,Automatic,First,15,1396,98.6,5,5.96
+127,Hyundai i20 Sportz Diesel,Ahmedabad,2010,,Diesel,Manual,First,23,1396,90,5,2.7
+9,Hyundai i20 Sportz Option,Delhi,2010,,Petrol,Manual,First,17,1197,80,5,2.6
+1714,Hyundai Santro GLS I - Euro I,Pune,2011,,Petrol,Manual,First,15,1086,62,5,2.1
+798,Hyundai Santro GLS II - Euro II,Bangalore,2012,,Petrol,Manual,First,15,999,62,5,3.25
+4305,Hyundai Santro Xing GL,Mumbai,2008,,Petrol,Manual,Second,17.92,1086,62,5,1.39
+2676,Hyundai Santro Xing GL Plus,Pune,2012,,Petrol,Manual,Second,17.92,1086,62.1,5,1.6
+2476,Hyundai Santro Xing GLS,Bangalore,2008,,Petrol,Manual,Second,17.92,1086,62.1,5,2.22
+3827,Hyundai Santro Xing GLS,Hyderabad,2007,,Petrol,Manual,Second,17.92,1086,62.1,5,1.85
+3947,Hyundai Santro Xing XG eRLX Euro III,Mumbai,2006,,Petrol,Manual,First,17,1086,62.1,5,1.15
+2361,Hyundai Santro Xing XL eRLX Euro III,Hyderabad,2007,,Petrol,Manual,First,17,1086,62.1,5,1.95
+519,Hyundai Santro Xing XO,Chennai,2007,,Petrol,Manual,First,17,1086,62.1,5,1.85
+3598,Hyundai Santro Xing XO,Hyderabad,2007,,Petrol,Manual,First,17,1086,62.1,5,2.1
+2748,Hyundai Sonata Transform 2.4 GDi AT,Kolkata,2013,,Petrol,Automatic,First,12.37,2359,198.25,5,6
+1856,Hyundai Verna 1.4 CRDi GL,Kolkata,2012,,Diesel,Manual,First,24.8,1396,88.7,5,4.1
+1855,Hyundai Verna 1.4 EX,Chennai,2013,,Diesel,Manual,First,23.5,1396,88.7,5,6.5
+4767,Hyundai Verna 1.6 CRDI AT SX Option,Chennai,2016,,Diesel,Automatic,First,19.08,1582,126.2,5,8.6
+2777,Hyundai Verna 1.6 CRDi EX MT,Kochi,2016,,Diesel,Manual,First,22.32,1582,126.3,5,6.64
+3080,Hyundai Verna 1.6 CRDi EX MT,Kolkata,2013,,Diesel,Manual,First,22.32,1582,126.3,5,4.7
+1011,Hyundai Verna 1.6 CRDi SX,Ahmedabad,2015,,Diesel,Manual,First,23.9,1582,126.2,5,6.99
+446,Hyundai Verna 1.6 SX,Jaipur,2012,,Diesel,Manual,First,22.32,1582,126.32,5,5.75
+728,Hyundai Verna 1.6 SX,Kolkata,2011,,Diesel,Manual,First,22.32,1582,126.32,5,3.9
+2128,Hyundai Verna 1.6 SX CRDi (O),Pune,2012,,Diesel,Manual,First,22.32,1582,126.32,5,6
+4123,Hyundai Verna 1.6 SX CRDi (O),Kolkata,2013,,Diesel,Manual,First,22.32,1582,126.32,5,4.35
+3628,Hyundai Verna 1.6 SX VTVT,Mumbai,2016,,Petrol,Manual,First,17.01,1591,121.3,5,6.45
+4689,Hyundai Verna 1.6 SX VTVT,Mumbai,2011,,Petrol,Manual,Second,17.01,1591,121.3,5,4
+109,Hyundai Verna 1.6 SX VTVT (O),Kolkata,2013,,Petrol,Manual,First,17.1,1591,121.3,5,4.5
+1787,Hyundai Verna 1.6 SX VTVT (O) AT,Chennai,2012,,Petrol,Automatic,Third,17.1,1591,121.4,5,7.5
+2254,Hyundai Verna 1.6 SX VTVT AT,Pune,2014,,Petrol,Automatic,First,15.74,1591,121.3,5,6.5
+2974,Hyundai Verna CRDi,Hyderabad,2008,,Diesel,Manual,Second,16.8,1493,110,5,2.25
+3290,Hyundai Verna CRDi SX,Jaipur,2008,,Diesel,Manual,Second,16.8,1493,110,5,1.5
+336,Hyundai Verna SX CRDi AT,Bangalore,2012,,Diesel,Automatic,Second,19.08,1582,126.32,5,6.5
+991,Hyundai Verna SX CRDi AT,Pune,2012,,Diesel,Automatic,First,19.08,1582,126.32,5,6
+2324,Hyundai Verna Transform SX VGT CRDi,Ahmedabad,2010,,Diesel,Manual,First,16.2,1493,110,5,3.45
+4370,Hyundai Verna VTVT 1.6 SX,Bangalore,2014,,Petrol,Manual,First,17,1591,121.3,5,7.75
+979,Hyundai Verna VTVT 1.6 SX Option,Kochi,2016,,Petrol,Manual,First,17,1591,121.3,5,7.97
+3245,Hyundai Verna Xi (Petrol),Kochi,2009,,Petrol,Manual,Second,13.9,1599,103.2,5,1.85
+819,Hyundai Xcent 1.1 CRDi Base,Mumbai,2016,,Diesel,Manual,First,24.4,1120,71,5,4.2
+3036,Hyundai Xcent 1.1 CRDi Base,Hyderabad,2016,,Diesel,Manual,First,24.4,1120,71,5,4.4
+1289,Hyundai Xcent 1.1 CRDi S,Pune,2015,,Diesel,Manual,First,24.4,1120,71,5,5.5
+4366,Hyundai Xcent 1.1 CRDi S Celebration Edition,Pune,2016,,Diesel,Manual,First,24.4,1120,71,5,5.25
+212,Hyundai Xcent 1.2 Kappa AT SX Option,Chennai,2015,,Petrol,Automatic,First,16.9,1197,82,5,5.8
+480,Hyundai Xcent 1.2 Kappa S,Kochi,2017,,Petrol,Manual,First,19.1,1197,82,5,6.21
+2670,Hyundai Xcent 1.2 Kappa S,Jaipur,2014,,Petrol,Manual,First,19.1,1197,82,5,4.15
+1463,Hyundai Xcent 1.2 Kappa S Option CNG,Delhi,2016,,CNG,Manual,First,25,1197,81.86,5,5
+3350,Hyundai Xcent 1.2 VTVT S,Bangalore,2014,,Petrol,Manual,First,20.14,1197,81.86,5,5.5
+4608,Jaguar XE 2.0L Diesel Prestige,Hyderabad,2017,,Diesel,Automatic,First,13.6,1999,177,5,38
+2709,Jaguar XE Portfolio,Mumbai,2017,,Petrol,Automatic,First,13.5,1999,246.74,5,34.5
+1373,Jaguar XF 2.2 Litre Luxury,Mumbai,2013,,Diesel,Automatic,First,16.36,2179,187.7,5,26.75
+2841,Jaguar XF 3.0 Litre S Premium Luxury,Coimbatore,2012,,Diesel,Automatic,First,14.74,2993,270.9,5,16.58
+2089,Jaguar XF Diesel,Coimbatore,2012,,Diesel,Automatic,First,14.74,2993,270.9,5,23.19
+3575,Jaguar XJ 3.0L Premium Luxury,Hyderabad,2012,,Diesel,Automatic,First,12.9,2993,271.23,4,45
+802,Jeep Compass 1.4 Limited Option,Mumbai,2017,,Petrol,Automatic,First,16,1368,160,5,17.75
+20,Jeep Compass 2.0 Limited Option 4X4,Jaipur,2017,,Diesel,Manual,First,16.3,1956,170,5,20
+3842,Jeep Compass 2.0 Limited Option 4X4,Kolkata,2017,,Diesel,Manual,First,16.3,1956,170,5,17.5
+3138,Jeep Compass 2.0 Longitude,Coimbatore,2018,,Diesel,Manual,First,17.1,1956,170,5,19.05
+2433,Land Rover Discovery 4 TDV6 SE,Delhi,2013,,Diesel,Automatic,Second,11.8,2993,180,7,34
+2961,Land Rover Discovery SE 3.0 TD6,Delhi,2016,,Diesel,Automatic,First,18,2993,255,7,36.75
+4986,Land Rover Discovery Sport SD4 HSE Luxury 7S,Hyderabad,2016,,Diesel,Automatic,First,12.51,2179,187.7,7,44.5
+1495,Land Rover Discovery Sport TD4 HSE,Coimbatore,2019,,Diesel,Automatic,First,12.63,2179,147.5,5,55.7
+1516,Land Rover Discovery Sport TD4 HSE 7S,Coimbatore,2019,,Diesel,Automatic,First,12.81,1999,148.31,7,56.14
+707,Land Rover Freelander 2 HSE,Hyderabad,2012,,Diesel,Automatic,First,12.35,2179,187.74,5,18.98
+2657,Land Rover Freelander 2 TD4 SE,Hyderabad,2012,,Diesel,Automatic,First,12.39,2179,115,5,16.75
+3313,Land Rover Range Rover 2.2L Prestige,Delhi,2015,,Diesel,Automatic,First,12.7,2179,187.7,5,36
+4044,Land Rover Range Rover 3.0 Diesel LWB Vogue,Hyderabad,2017,,Diesel,Automatic,First,13.33,2993,255,5,160
+1439,Land Rover Range Rover 3.6 TDV8 Vogue SE,Coimbatore,2012,,Diesel,Automatic,First,10.2,4367,308,7,52.54
+758,Land Rover Range Rover HSE Dynamic,Coimbatore,2017,,Diesel,Automatic,First,12.7,2179,187.7,5,45.64
+3551,Mahindra NuvoSport N6,Chennai,2017,,Diesel,Manual,Second,17.45,1493,100,7,6.5
+2016,Mahindra Renault Logan 1.4 GLX Petrol,Pune,2008,,Petrol,Manual,First,15.7,1390,75,5,2.3
+3476,Mahindra Scorpio 1.99 S10,Ahmedabad,2016,,Diesel,Manual,First,15.4,1997,120,7,11.5
+2022,Mahindra Scorpio 2009-2014 VLX 4WD AT 7S BSIV,Delhi,2012,,Diesel,Automatic,First,11.79,2179,120,7,6.25
+2801,Mahindra Scorpio S10 AT 4WD,Pune,2017,,Diesel,Automatic,First,15.4,2179,120,7,10
+2783,Mahindra Scorpio SLE BSIV,Delhi,2011,,Diesel,Manual,Second,12.05,2179,120,8,4
+4714,Mahindra Scorpio SLE BSIV,Delhi,2012,,Diesel,Manual,Second,12.05,2179,120,8,4.93
+1877,Mahindra Scorpio VLX,Ahmedabad,2011,,Diesel,Manual,Second,12.05,2179,120,8,7.45
+2595,Mahindra Scorpio VLX 2WD BSIV,Hyderabad,2014,,Diesel,Manual,First,12.05,2179,120,8,7.9
+3760,Mahindra Scorpio VLX 4WD AIRBAG AT BSIV,Coimbatore,2011,,Diesel,Automatic,Second,11.79,2179,120,8,6.21
+1711,Mahindra Ssangyong Rexton RX7,Pune,2013,,Diesel,Automatic,Second,11.18,2696,184,7,8.79
+3829,Mahindra Ssangyong Rexton RX7,Kochi,2014,,Diesel,Automatic,Second,11.18,2696,184,7,9.47
+3049,Mahindra TUV 300 2015-2019 T8,Coimbatore,2017,,Diesel,Manual,First,18.49,1493,100,7,7.36
+140,Mahindra Verito 1.5 D6 BSIV,Kochi,2012,,Diesel,Manual,Second,21,1461,64.1,5,3.19
+117,Mahindra XUV500 AT W10 AWD,Coimbatore,2018,,Diesel,Automatic,First,16,2179,140,7,16.77
+162,Mahindra XUV500 AT W10 FWD,Mumbai,2016,,Diesel,Automatic,First,16,2179,140,7,13.75
+3020,Mahindra XUV500 AT W10 FWD,Jaipur,2016,,Diesel,Automatic,First,16,2179,140,7,13.25
+3169,Mahindra XUV500 W6 2WD,Coimbatore,2016,,Diesel,Manual,First,15.1,2179,140,7,11.05
+221,Mahindra XUV500 W8 2WD,Kochi,2013,,Diesel,Manual,First,15.1,2179,140,7,7.31
+663,Mahindra XUV500 W8 2WD,Coimbatore,2015,,Diesel,Manual,First,15.1,2179,140,7,8.36
+1046,Mahindra XUV500 W8 2WD,Mumbai,2015,,Diesel,Manual,First,16,2179,140,7,9
+1217,Mahindra XUV500 W8 2WD,Chennai,2011,,Diesel,Manual,Third,16,2179,140,7,6.4
+1453,Mahindra XUV500 W8 2WD,Kolkata,2013,,Diesel,Manual,First,15.1,2179,140,7,7.8
+2203,Mahindra XUV500 W8 2WD,Mumbai,2012,,Diesel,Manual,First,16,2179,140,7,7.75
+2407,Mahindra XUV500 W8 2WD,Coimbatore,2014,,Diesel,Manual,First,15.1,2179,140,7,10.09
+2533,Mahindra XUV500 W8 2WD,Delhi,2014,,Diesel,Manual,First,15.1,2179,140,7,8
+2926,Mahindra XUV500 W8 2WD,Coimbatore,2015,,Diesel,Manual,First,15.1,2179,140,7,12.49
+927,Maruti 1000 AC,Hyderabad,1998,,Petrol,Manual,Second,15,970,37,5,0.85
+2570,Maruti 800 AC,Jaipur,2010,,Petrol,Manual,Second,16.1,796,37,4,0.9
+3843,Maruti 800 AC Uniq,Jaipur,2009,,Petrol,Manual,Second,16.1,796,37,4,0.8
+4628,Maruti 800 DX BSII,Pune,2000,,Petrol,Manual,First,16.1,796,37,4,0.55
+2054,Maruti Alto 800 LXI,Kolkata,2013,,Petrol,Manual,First,22.74,796,47.3,5,1.55
+1390,Maruti Alto 800 VXI,Coimbatore,2016,,Petrol,Manual,First,22.74,796,47.3,5,4.12
+722,Maruti Alto K10 LXI CNG Optional,Kochi,2018,,CNG,Manual,First,32.26,998,58.2,4,4
+256,Maruti Alto K10 VXI,Jaipur,2016,,Petrol,Manual,First,24.07,998,67.1,5,3.2
+1629,Maruti Alto K10 VXI,Kochi,2015,,Petrol,Manual,First,24.07,998,67.1,5,3.46
+3130,Maruti Alto K10 VXI,Pune,2017,,Petrol,Manual,First,24.07,998,67.1,5,3.75
+3495,Maruti Alto K10 VXI AGS,Coimbatore,2018,,Petrol,Automatic,First,24.07,998,67.1,5,4.56
+576,Maruti Alto LX,Hyderabad,2010,,Petrol,Manual,First,19.7,796,46.3,5,1.95
+2208,Maruti Alto LXi,Mumbai,2010,,Petrol,Manual,First,19.7,796,46.3,5,1.5
+2308,Maruti Alto LXi BSIII,Bangalore,2011,,Petrol,Manual,First,19.7,796,46.3,5,2.39
+470,Maruti A-Star Lxi,Delhi,2010,,Petrol,Manual,First,19,998,66.1,5,2
+3643,Maruti A-Star Vxi,Pune,2011,,Petrol,Manual,Second,19,998,66.1,5,1.95
+1001,Maruti Baleno Alpha,Chennai,2016,,Petrol,Manual,First,21.4,1197,83.1,5,6.95
+1140,Maruti Baleno Alpha 1.2,Delhi,2016,,Petrol,Manual,First,21.4,1197,83.1,5,6.9
+1804,Maruti Baleno Alpha Diesel,Kolkata,2016,,Diesel,Manual,First,27.39,1248,74,5,6.5
+2826,Maruti Baleno Delta,Mumbai,2016,,Petrol,Manual,First,21.4,1197,83.1,5,5.8
+3013,Maruti Baleno Delta 1.3,Hyderabad,2018,,Diesel,Manual,First,27.39,1248,74,5,8.5
+1051,Maruti Baleno RS Petrol,Kochi,2018,,Petrol,Manual,First,21.1,998,100,5,8.15
+4755,Maruti Baleno Sigma 1.2,Mumbai,2016,,Petrol,Manual,First,21.4,1197,83.1,5,5.49
+1372,Maruti Celerio VXI,Delhi,2014,,Petrol,Manual,First,23.1,998,67.04,5,2.8
+1929,Maruti Celerio VXI,Jaipur,2014,,Petrol,Manual,First,23.1,998,67.04,5,2.79
+154,Maruti Celerio VXI AMT,Chennai,2015,,Petrol,Automatic,First,23.1,998,67.04,5,3.5
+471,Maruti Celerio VXI AT,Mumbai,2015,,Petrol,Automatic,First,23.1,998,67.04,5,3.99
+668,Maruti Celerio VXI AT,Kolkata,2016,,Petrol,Automatic,First,23.1,998,67.04,5,3.49
+1695,Maruti Celerio VXI AT,Hyderabad,2014,,Petrol,Automatic,First,23.1,998,67.04,5,3.75
+4815,Maruti Celerio ZXI AMT,Coimbatore,2017,,Petrol,Automatic,First,23.1,998,67.04,5,5.25
+2805,Maruti Ciaz 1.3 Alpha,Chennai,2016,,Diesel,Manual,First,28.09,1248,88.5,5,8.45
+4298,Maruti Ciaz VDi,Jaipur,2017,,Diesel,Manual,First,26.21,1248,88.5,5,7.5
+4617,Maruti Ciaz VDi Plus,Chennai,2015,,Diesel,Manual,First,26.21,1248,88.5,5,6.5
+290,Maruti Ciaz VDi Plus SHVS,Kolkata,2015,,Diesel,Manual,First,28.09,1248,88.5,5,5.5
+1344,Maruti Ciaz VDi Plus SHVS,Ahmedabad,2015,,Diesel,Manual,First,28.09,1248,88.5,5,6
+4906,Maruti Ciaz VDi Plus SHVS,Hyderabad,2015,,Diesel,Manual,First,28.09,1248,88.5,5,7.9
+4197,Maruti Ciaz VXi Plus,Mumbai,2015,,Petrol,Manual,First,20.73,1373,91.1,5,5.95
+769,Maruti Ciaz ZDi Plus,Jaipur,2015,,Diesel,Manual,First,26.21,1248,88.5,5,7.4
+3304,Maruti Ciaz ZDi Plus,Kolkata,2015,,Diesel,Manual,Second,26.21,1248,88.5,5,5.75
+596,Maruti Ciaz ZDi Plus SHVS,Jaipur,2017,,Diesel,Manual,First,28.09,1248,88.5,5,9.75
+4803,Maruti Ciaz ZDi Plus SHVS,Jaipur,2016,,Diesel,Manual,First,28.09,1248,88.5,5,7.1
+279,Maruti Dzire VDI,Mumbai,2012,,Diesel,Manual,Second,28.4,1248,73.75,5,4.25
+102,Maruti Dzire VXI,Kolkata,2011,,Petrol,Manual,First,22,1197,81.8,5,2.7
+3342,Maruti Dzire ZDI Plus,Jaipur,2017,,Diesel,Manual,First,28.4,1248,73.75,5,8.2
+3110,Maruti Eeco 7 Seater Standard,Coimbatore,2013,,Petrol,Manual,First,15.1,1196,73,7,3.75
+4237,Maruti Eeco 7 Seater Standard,Delhi,2016,,Petrol,Manual,First,15.1,1196,73,7,2.2
+331,Maruti Ertiga VDI,Pune,2014,,Diesel,Manual,First,20.77,1248,88.76,7,7.25
+2154,Maruti Ertiga VDI,Hyderabad,2012,,Diesel,Manual,First,20.77,1248,88.76,7,6.5
+4355,Maruti Ertiga ZDI,Hyderabad,2015,,Diesel,Manual,First,20.77,1248,88.8,7,8.5
+2556,Maruti Ertiga ZXI,Mumbai,2012,,Petrol,Manual,Second,17.5,1373,91.1,7,5.15
+3100,Maruti Esteem Vxi - BSIII,Chennai,2007,,Petrol,Manual,First,15.9,1298,85,5,1.45
+126,Maruti Ignis 1.2 Alpha,Mumbai,2017,,Petrol,Manual,First,20.89,1197,81.8,5,6.36
+3060,Maruti Ignis 1.2 AMT Alpha,Coimbatore,2019,,Petrol,Automatic,First,20.89,1197,81.8,5,7.36
+3793,Maruti Omni 5 Str STD,Coimbatore,2010,,Petrol,Manual,First,14,796,35,5,2.41
+1283,Maruti Omni 8 Seater BSII,Jaipur,2012,,Petrol,Manual,First,19.7,796,35,8,1.55
+4361,Maruti Ritz LDi,Bangalore,2016,,Diesel,Manual,First,23.2,1248,73.94,5,3.65
+1552,Maruti Ritz LXi,Mumbai,2016,,Petrol,Manual,First,18.5,1197,85.8,5,3.65
+2589,Maruti Ritz LXi,Kochi,2011,,Petrol,Manual,First,18.5,1197,85.8,5,3.19
+224,Maruti Ritz VDi,Pune,2013,,Diesel,Manual,First,21.1,1248,73.9,5,4.35
+435,Maruti Ritz VDi,Hyderabad,2010,,Diesel,Manual,Second,21.1,1248,73.9,5,3.2
+602,Maruti Ritz VDi,Kolkata,2012,,Diesel,Manual,First,23.2,1248,73.94,5,3
+1951,Maruti Ritz VDi,Jaipur,2013,,Diesel,Manual,First,23.2,1248,73.94,5,3.11
+2688,Maruti S Cross DDiS 200 Sigma Option,Pune,2017,,Diesel,Manual,First,15,1248,88.5,5,8.5
+714,Maruti S Cross DDiS 320 Alpha,Delhi,2015,,Diesel,Manual,First,22.7,1598,118,5,7.65
+3972,Maruti S-Cross Zeta DDiS 200 SH,Coimbatore,2016,,Diesel,Manual,First,25.1,1248,88.5,5,7.94
+2950,Maruti Swift AMT DDiS VDI,Chennai,2018,,Diesel,Manual,First,28.4,1248,74,5,8
+2699,Maruti Swift AMT VDI,Delhi,2018,,Diesel,Automatic,First,28.4,1248,74,5,7.5
+3372,Maruti Swift DDiS VDI,Coimbatore,2019,,Diesel,Manual,First,28.4,1248,74,5,8.4
+2526,Maruti Swift Dzire LDI,Chennai,2016,,Diesel,Manual,First,26.59,1248,74,5,4.5
+2204,Maruti Swift Dzire LXi,Hyderabad,2009,,Petrol,Manual,First,17.5,1298,85.8,5,3.8
+44,Maruti Swift Dzire Tour LDI,Kolkata,2015,,Diesel,Manual,First,23.4,1248,74,5,4
+137,Maruti Swift Dzire VDi,Hyderabad,2011,,Diesel,Manual,First,19.3,1248,73.9,5,4.39
+906,Maruti Swift Dzire VDi,Kolkata,2012,,Diesel,Manual,First,19.3,1248,73.9,5,3.7
+2295,Maruti Swift Dzire VDI,Pune,2014,,Diesel,Manual,First,23.4,1248,74,5,5
+2296,Maruti Swift Dzire VDI,Kolkata,2014,,Diesel,Manual,First,23.4,1248,74,5,3.85
+3051,Maruti Swift Dzire VDi,Hyderabad,2009,,Diesel,Manual,Second,19.3,1248,73.9,5,3.5
+4268,Maruti Swift Dzire VDI,Hyderabad,2014,,Diesel,Manual,First,26.59,1248,74,5,5.69
+4455,Maruti Swift Dzire VDI,Jaipur,2015,,Diesel,Manual,First,26.59,1248,74,5,6.25
+4568,Maruti Swift Dzire VDi,Hyderabad,2010,,Diesel,Manual,First,19.3,1248,73.9,5,3.65
+166,Maruti Swift Dzire VXI,Pune,2016,,Petrol,Manual,First,19.1,1197,85.8,5,5.3
+1279,Maruti Swift Dzire VXI,Bangalore,2013,,Petrol,Manual,First,19.1,1197,85.8,5,5
+4122,Maruti Swift Dzire VXi,Bangalore,2009,,Petrol,Manual,Second,17.5,1298,85.8,5,3.1
+4232,Maruti Swift Dzire VXI,Kolkata,2014,,Petrol,Manual,First,19.1,1197,85.8,5,4.25
+4698,Maruti Swift Dzire VXi,Pune,2010,,Petrol,Manual,Second,17.5,1298,85.8,5,2.2
+847,Maruti Swift Dzire ZXi,Delhi,2015,,Petrol,Manual,First,17.5,1298,85.8,5,5.5
+4331,Maruti Swift LDI,Delhi,2015,,Diesel,Manual,First,22.9,1248,74,5,4.74
+1926,Maruti Swift Ldi BSIII,Hyderabad,2008,,Diesel,Manual,First,17.8,1248,75,5,4.25
+1541,Maruti Swift LXI,Pune,2013,,Petrol,Manual,First,18.6,1197,85.8,5,4.65
+31,Maruti Swift VDI,Jaipur,2015,,Diesel,Manual,First,28.4,1248,74,5,5.1
+357,Maruti Swift VDI,Hyderabad,2012,,Diesel,Manual,First,22.9,1248,74,5,4.9
+524,Maruti Swift VDI,Chennai,2012,,Diesel,Manual,First,22.9,1248,74,5,4.4
+1484,Maruti Swift VDI,Jaipur,2016,,Diesel,Manual,First,22.9,1248,74,5,5.65
+1988,Maruti Swift VDI,Pune,2014,,Diesel,Manual,First,22.9,1248,74,5,5.1
+4018,Maruti Swift VDI,Chennai,2014,,Diesel,Manual,First,22.9,1248,74,5,5.25
+4133,Maruti Swift VDI,Kochi,2016,,Diesel,Manual,First,28.4,1248,74,5,5.22
+2982,Maruti Swift VDI BSIV,Kolkata,2011,,Diesel,Manual,First,17.8,1248,74,5,2.5
+3206,Maruti Swift VDI BSIV,Pune,2013,,Diesel,Manual,First,17.8,1248,74,5,4.85
+4285,Maruti Swift VDI BSIV,Chennai,2015,,Diesel,Manual,First,25.2,1248,74,5,6.5
+4421,Maruti Swift VDI BSIV,Coimbatore,2014,,Diesel,Manual,First,25.2,1248,74,5,5.99
+2335,Maruti Swift VXI,Coimbatore,2013,,Petrol,Manual,First,18.6,1197,85.8,5,4.57
+3750,Maruti Swift VXI,Delhi,2014,,Petrol,Manual,First,18.6,1197,85.8,5,4.2
+4636,Maruti Swift VXI BSIII,Ahmedabad,2008,,Petrol,Manual,First,16.1,1298,88.2,5,2.41
+2686,Maruti Swift VXI Optional,Kochi,2017,,Petrol,Manual,First,20.4,1197,81.8,5,5.44
+443,Maruti Swift ZDi,Pune,2016,,Diesel,Manual,First,22.9,1248,74,5,7.55
+1402,Maruti Swift ZDi,Chennai,2012,,Diesel,Manual,First,22.9,1248,74,5,4.8
+2803,Maruti Swift ZDi,Hyderabad,2016,,Diesel,Manual,First,22.9,1248,74,5,6.95
+1269,Maruti SX4 Green Vxi (CNG),Delhi,2012,,CNG,Manual,First,21.4,1586,103.3,5,2.65
+499,Maruti SX4 S Cross DDiS 200 Zeta,Hyderabad,2016,,Diesel,Manual,First,23.65,1248,88.5,5,8.99
+4769,Maruti SX4 S Cross DDiS 320 Zeta,Coimbatore,2016,,Diesel,Manual,First,22.7,1598,118,5,9.58
+4863,Maruti SX4 S Cross DDiS 320 Zeta,Coimbatore,2016,,Diesel,Manual,First,22.7,1598,118,5,8.94
+2182,Maruti SX4 Zxi BSIII,Chennai,2007,,Petrol,Manual,First,15,1586,104.68,5,1.8
+4979,Maruti SX4 Zxi with Leather BSIII,Chennai,2010,,Petrol,Manual,First,15.6,1586,104.68,5,2.8
+2907,Maruti Versa DX2 BS II,Mumbai,2003,,Petrol,Manual,Second,11.3,1298,83.1,8,1.25
+1783,Maruti Vitara Brezza VDi,Mumbai,2016,,Diesel,Manual,First,24.3,1248,88.5,5,7.5
+89,Maruti Vitara Brezza VDi Option,Hyderabad,2018,,Diesel,Manual,First,24.3,1248,88.5,5,9.4
+3379,Maruti Vitara Brezza VDi Option,Coimbatore,2017,,Diesel,Manual,First,24.3,1248,88.5,5,9.58
+1069,Maruti Vitara Brezza ZDi,Hyderabad,2016,,Diesel,Manual,First,24.3,1248,88.5,5,9.3
+3579,Maruti Vitara Brezza ZDi Plus Dual Tone,Pune,2016,,Diesel,Manual,First,24.3,1248,88.5,5,8.85
+4787,Maruti Vitara Brezza ZDi Plus Dual Tone,Coimbatore,2017,,Diesel,Manual,First,24.3,1248,88.5,5,11.31
+264,Maruti Wagon R LX BSIII,Pune,2007,,Petrol,Manual,Second,17.3,1061,64,5,1.24
+529,Maruti Wagon R LX BSIII,Ahmedabad,2004,,Petrol,Manual,Second,17.3,1061,64,5,1.4
+4008,Maruti Wagon R LX BSIII,Jaipur,2005,,Petrol,Manual,Second,17.3,1061,64,5,0.99
+2561,Maruti Wagon R LXI,Hyderabad,2012,,Petrol,Manual,First,18.9,998,67.1,5,3.2
+14,Maruti Wagon R LXI CNG,Ahmedabad,2016,,CNG,Manual,First,26.6,998,58.16,5,3.3
+385,Maruti Wagon R LXI CNG,Pune,2013,,CNG,Manual,First,26.6,998,58.16,5,3.25
+1161,Maruti Wagon R LXI CNG,Mumbai,2013,,CNG,Manual,First,26.6,998,58.16,5,3.15
+4683,Maruti Wagon R LXI CNG,Mumbai,2010,,CNG,Manual,First,26.6,998,58.16,5,1.75
+4883,Maruti Wagon R LXI Minor,Pune,2009,,Petrol,Manual,First,18.9,998,67.1,5,1.69
+510,Maruti Wagon R VXI,Kolkata,2013,,Petrol,Manual,First,22.5,998,67.04,5,2.65
+1828,Maruti Wagon R VXI,Kochi,2019,,Petrol,Manual,First,22.5,998,67.04,5,5.34
+2905,Maruti Wagon R VXI,Ahmedabad,2011,,Petrol,Manual,First,18.9,998,67.1,5,2.6
+3128,Maruti Wagon R VXI,Jaipur,2017,,Petrol,Manual,First,22.5,998,67.04,5,4.5
+2656,Maruti Wagon R VXI Minor ABS,Kochi,2013,,Petrol,Manual,First,18.9,1061,67,5,3.02
+1712,Maruti Zen Estilo 1.1 LX BSIII,Kochi,2011,,Petrol,Manual,First,18.2,1061,64,5,2.62
+2232,Maruti Zen Estilo LXI BS IV,Pune,2011,,Petrol,Manual,First,19,998,67.1,5,2
+3447,Maruti Zen Estilo LXI BS IV,Mumbai,2009,,Petrol,Manual,First,19,998,67.1,5,1.46
+3170,Maruti Zen VXI BSII,Kochi,2003,,Petrol,Manual,Third,17.3,993,60,5,1.52
+1466,Mercedes-Benz A Class A180 CDI,Mumbai,2013,,Diesel,Automatic,First,20,2143,107.3,5,13
+4610,Mercedes-Benz A Class A180 CDI,Pune,2015,,Diesel,Automatic,First,20,2143,107.3,5,17.5
+3798,Mercedes-Benz B Class B180,Delhi,2013,,Petrol,Automatic,First,14.8,1595,120.7,5,11
+280,Mercedes-Benz E-Class 200 Kompressor Elegance,Mumbai,2004,,Petrol,Automatic,Second,10.5,1796,157.7,5,5.5
+2717,Mercedes-Benz E-Class 2009-2013 E 200 CGI Avantgarde,Kochi,2016,,Petrol,Manual,First,12.3,1796,185,5,30.42
+3096,Mercedes-Benz E-Class 2009-2013 E200 CGI Blue Efficiency,Delhi,2011,,Petrol,Automatic,First,12.3,1796,185,5,12.5
+2147,Mercedes-Benz E-Class 2015-2017 E350 CDI Avantgrade,Kochi,2018,,Diesel,Automatic,First,13,2987,265,5,70.15
+3534,Mercedes-Benz E-Class E 350 d,Coimbatore,2019,,Diesel,Automatic,First,18,2987,258,5,78.8
+2206,Mercedes-Benz GLA Class 200 Sport Edition,Chennai,2016,,Petrol,Automatic,First,13.7,1991,183,5,26
+516,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Delhi,2014,,Diesel,Automatic,First,11.3,2987,254.8,7,38.75
+1764,Mercedes-Benz GLS 350d 4MATIC,Pune,2017,,Diesel,Automatic,First,11,2987,258,7,56
+3432,Mercedes-Benz M-Class ML 350 4Matic,Chennai,2012,,Diesel,Automatic,First,9.5,2987,165,5,26
+1722,Mercedes-Benz New C-Class 200 CDI Classic,Pune,2013,,Diesel,Manual,Second,15.8,2148,170,5,15.5
+4692,Mercedes-Benz New C-Class 200 Kompressor,Delhi,2011,,Petrol,Manual,First,11.7,1796,178,5,8.8
+1894,Mercedes-Benz New C-Class C 200 Kompressor Elegance MT,Chennai,2010,,Petrol,Manual,First,11.7,1796,178,5,10
+1035,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Kochi,2015,,Diesel,Automatic,First,19.27,2143,170,5,18.64
+4605,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Delhi,2014,,Diesel,Automatic,First,19.27,2143,170,5,15.65
+4910,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Bangalore,2016,,Diesel,Automatic,First,19.27,2143,170,5,32.5
+2549,Mercedes-Benz New C-Class C 220 CDI BE Avantgare,Bangalore,2016,,Diesel,Automatic,First,14.84,2143,167.62,5,35
+1557,Mercedes-Benz New C-Class C 220 CDI Elegance AT,Pune,2012,,Diesel,Automatic,First,14.84,2143,170,5,13.99
+2001,Mercedes-Benz New C-Class C 220 CDI Elegance AT,Hyderabad,2013,,Diesel,Automatic,First,14.84,2143,170,5,23.5
+4658,Mercedes-Benz New C-Class C250 Avantgarde,Chennai,2011,,Petrol,Automatic,First,11.74,1796,186,5,16
+1252,Mini Cooper Convertible S,Chennai,2012,,Petrol,Automatic,Second,16.82,1998,189.08,4,22
+2413,Mitsubishi Pajero 2.8 GLX CRZ,Mumbai,2004,,Diesel,Manual,First,10.5,2835,107.2,6,3.45
+4701,Mitsubishi Pajero 2.8 SFX BSIV Dual Tone,Mumbai,2008,,Diesel,Manual,Third,10.5,2835,107.2,6,5.45
+2719,Nissan Micra XV CVT,Mumbai,2015,,Petrol,Automatic,First,19.15,1198,75.94,5,4.6
+950,Nissan Sunny 2011-2014 Diesel XV,Mumbai,2012,,Diesel,Manual,First,21.64,1461,84.8,5,4.05
+1130,Nissan Sunny 2011-2014 Diesel XV,Delhi,2012,,Diesel,Manual,First,21.64,1461,84.8,5,2.59
+1396,Nissan Sunny 2011-2014 XV,Pune,2016,,Petrol,Manual,First,16.95,1498,97.7,5,3.75
+54,Nissan Sunny XL CVT,Hyderabad,2014,,Petrol,Automatic,First,17.97,1498,99.6,5,7.99
+3137,Nissan Terrano XV Premium 110 PS,Kolkata,2016,,Diesel,Manual,First,19.01,1461,108.5,5,6.25
+645,Nissan X-Trail SLX AT,Hyderabad,2010,,Diesel,Automatic,First,13.29,1995,147.6,5,7.75
+2503,Porsche Boxster S tiptronic,Kolkata,2015,,Petrol,Automatic,First,8.6,2706,265,2,64
+2566,Porsche Cayenne Turbo S,Mumbai,2010,,Petrol,Automatic,Second,11.9,4806,550,5,32
+2492,Renault Duster 110PS Diesel RxL,Hyderabad,2015,,Diesel,Manual,First,19.01,1461,108.45,5,7.99
+4700,Renault Duster 110PS Diesel RxL,Bangalore,2014,,Diesel,Manual,First,19.6,1461,108.45,5,7.75
+2558,Renault Duster 110PS Diesel RxZ,Kolkata,2014,,Diesel,Manual,First,19.01,1461,108.45,5,5.49
+4477,Renault Duster 110PS Diesel RxZ,Kolkata,2013,,Diesel,Manual,First,19.01,1461,108.45,5,4.99
+4971,Renault Duster 110PS Diesel RxZ,Kochi,2013,,Diesel,Manual,First,19.01,1461,108.45,5,6.09
+964,Renault Duster 110PS Diesel RXZ Optional with Nav,Mumbai,2013,,Diesel,Manual,First,19.01,1461,108.45,5,6.5
+53,Renault Duster 110PS Diesel RxZ Plus,Mumbai,2013,,Diesel,Manual,Second,19.64,1461,108.45,5,5.4
+3212,Renault Duster 110PS Diesel RxZ Plus,Delhi,2012,,Diesel,Manual,First,19.64,1461,108.45,5,3.75
+3250,Renault Duster 85PS Diesel RxL Explore,Pune,2016,,Diesel,Manual,First,19.87,1461,83.8,5,7.8
+3363,Renault Duster 85PS Diesel RxL Option,Mumbai,2013,,Diesel,Manual,First,19.87,1461,83.8,5,4.25
+356,Renault Duster 85PS Diesel RxL Optional,Kochi,2013,,Diesel,Manual,First,20.46,1461,83.8,5,5.11
+593,Renault Koleos 2.0 Diesel,Delhi,2013,,Diesel,Automatic,Second,13.73,1995,148,5,7.5
+4693,Renault KWID 1.0 RXT Optional AMT,Coimbatore,2017,,Petrol,Automatic,First,22.5,999,67,5,4.28
+2014,Renault KWID AMT RXL,Jaipur,2017,,Petrol,Automatic,First,24.04,999,67,5,3.2
+2808,Renault KWID RXL,Kochi,2017,,Petrol,Manual,Second,25.17,799,53.3,5,3.46
+2352,Renault KWID RXT Optional,Hyderabad,2018,,Petrol,Manual,First,25.17,799,53.3,5,4.45
+1133,Renault Lodgy 110PS RxZ 8 Seater,Coimbatore,2016,,Diesel,Manual,First,19.98,1461,108.5,8,8.43
+4547,Renault Pulse RxL,Hyderabad,2014,,Diesel,Manual,First,23.08,1461,63.12,5,3.4
+2270,Skoda Fabia 1.6 MPI Elegance,Pune,2012,,Petrol,Manual,Second,14.83,1598,105,5,2.25
+6,Skoda Laura Ambiente 2.0 TDI CR AT,Chennai,2013,,Diesel,Automatic,First,20,1968,138.1,5,6.95
+3101,Skoda Octavia Ambiente 1.9 TDI,Delhi,2008,,Diesel,Manual,First,18.7,1896,66,5,2.2
+2585,Skoda Rapid 1.6 MPI Ambition,Mumbai,2015,,Petrol,Manual,First,15.41,1598,103.52,5,4.68
+1538,Skoda Rapid 1.6 TDI Ambition,Pune,2013,,Diesel,Manual,First,20.5,1598,103.5,5,3.76
+3276,Skoda Superb Elegance 1.8 TSI AT,Hyderabad,2010,,Petrol,Automatic,First,13.7,1798,157.75,5,7.25
+791,Skoda Superb Elegance 2.0 TDI CR AT,Pune,2012,,Diesel,Automatic,First,17.2,1968,138.1,5,8.5
+99,Skoda Superb Style 1.8 TSI AT,Kochi,2017,,Petrol,Automatic,First,14.67,1798,177.46,5,17.08
+4047,Skoda Superb Style 2.0 TDI AT,Mumbai,2017,,Diesel,Automatic,First,18.19,1968,174.5,5,22.99
+4124,Skoda Yeti Ambition 4X2,Hyderabad,2012,,Diesel,Manual,First,17.72,1968,108.49,5,7.99
+3059,Skoda Yeti Elegance,Chennai,2011,,Diesel,Manual,First,17.67,1968,138.08,5,7.5
+2263,Tata Indica V2 eLS,Chennai,2015,,Diesel,Manual,Second,25,1396,69,5,2
+2011,Tata Indica Vista Quadrajet LS,Kolkata,2012,,Diesel,Manual,Second,22.3,1248,74,5,1.2
+4340,Tata Indica Vista Quadrajet LS,Chennai,2012,,Diesel,Manual,Second,22.3,1248,74,5,1.95
+4901,Tata Indica Vista Quadrajet LS,Pune,2014,,Diesel,Manual,First,22.3,1248,74,5,2.5
+3163,Tata Indigo CS Emax CNG GLX,Chennai,2015,,CNG,Manual,First,24.6,1193,55.23,5,3.25
+1737,Tata Indigo LS,Jaipur,2008,,Diesel,Manual,First,17,1405,70,5,1
+761,Tata Indigo LS,Chennai,2008,,Diesel,Manual,Second,17,1405,70,5,1.6
+412,Tata Manza Aura Quadrajet BS IV,Jaipur,2011,,Diesel,Manual,Second,21.12,1248,88.8,5,1.8
+4273,Tata Manza Club Class Quadrajet90 LS,Coimbatore,2014,,Diesel,Manual,First,21.02,1248,88.8,5,3.7
+4527,Tata Nano Twist XT,Ahmedabad,2014,,Petrol,Manual,Second,25.4,624,37.5,4,1
+4946,Tata Nano Twist XT,Coimbatore,2015,,Petrol,Manual,Second,25.4,624,37.5,4,2.13
+3302,Tata New Safari DICOR 2.2 EX 4x2,Delhi,2011,,Diesel,Manual,Second,11.57,2179,138.1,7,3.5
+829,Tata New Safari EX 4x2,Jaipur,2011,,Petrol,Manual,First,12,2092,127,7,5.5
+4812,Tata Safari Storme 2012-2015 VX,Hyderabad,2014,,Diesel,Manual,First,14,2179,138.1,7,8
+854,Tata Sumo DX,Mumbai,2013,,Diesel,Manual,First,14.07,1978,83.1,10,5.25
+1085,Tata Sumo EX,Bangalore,2014,,Diesel,Manual,First,15.3,2956,83.8,7,4.45
+2099,Tata Sumo EX,Kolkata,2016,,Diesel,Manual,First,14.07,1948,83.1,7,4.85
+3788,Tata Tiago 1.2 Revotron XT,Kochi,2017,,Petrol,Manual,First,23.84,1199,84,5,5.11
+3374,Tata Tiago 1.2 Revotron XT Option,Coimbatore,2019,,Petrol,Manual,First,23.84,1199,84,5,5.85
+373,Tata Tiago 1.2 Revotron XZ,Coimbatore,2019,,Petrol,Manual,First,23.84,1199,84,5,6.94
+1727,Tata Xenon XT EX 4X2,Jaipur,2017,,Diesel,Manual,First,13.49,2179,138.03,5,7.5
+4848,Tata Zest Quadrajet 1.3 75PS XM,Pune,2017,,Diesel,Manual,First,22.95,1248,74,5,5
+2478,Toyota Camry Hybrid,Pune,2018,,Petrol,Automatic,First,19.16,2494,158.2,5,32
+3879,Toyota Camry Hybrid,Mumbai,2015,,Petrol,Automatic,First,19.16,2494,158.2,5,19.75
+3867,Toyota Camry W2 (AT),Chennai,2009,,Petrol,Automatic,First,12.1,2362,164.7,5,4.7
+904,Toyota Corolla 1.8 J,Delhi,2011,,Petrol,Manual,Second,14.53,1798,138,5,3.55
+3581,Toyota Corolla Altis 1.8 G,Mumbai,2010,,Petrol,Manual,First,14.28,1798,138.03,5,4.5
+670,Toyota Corolla Altis 1.8 G CVT,Delhi,2010,,Petrol,Automatic,Second,14.28,1798,138.03,5,4
+3813,Toyota Corolla Altis 1.8 GL,Coimbatore,2015,,Petrol,Manual,First,14.28,1798,138.03,5,10.77
+3775,Toyota Corolla Altis 1.8 VL CVT,Kochi,2018,,Petrol,Automatic,First,14.28,1798,138.03,5,17.49
+896,Toyota Corolla Altis G,Chennai,2008,,Petrol,Manual,Second,14.53,1798,138.1,5,3.5
+1473,Toyota Corolla Altis G,Delhi,2012,,Petrol,Manual,First,14.53,1798,138.1,5,6.75
+2093,Toyota Etios G,Jaipur,2013,,Petrol,Manual,Second,16.78,1496,88.73,5,4.05
+464,Toyota Etios G Safety,Delhi,2011,,Petrol,Manual,First,17.6,1496,88.7,5,3.2
+1503,Toyota Etios Liva 1.2 G,Coimbatore,2015,,Petrol,Manual,First,17.71,1197,78.9,5,4.57
+3195,Toyota Etios Liva G,Kolkata,2011,,Petrol,Manual,First,18.3,1197,78.9,5,2.19
+4686,Toyota Etios Liva G,Mumbai,2012,,Petrol,Manual,First,18.3,1197,78.9,5,2.44
+2824,Toyota Etios Liva GD,Pune,2011,,Diesel,Manual,First,23.59,1364,67.06,5,3.85
+925,Toyota Etios V,Kolkata,2015,,Petrol,Manual,First,16.78,1496,88.73,5,4.5
+848,Toyota Etios VXD,Pune,2015,,Diesel,Manual,Second,23.59,1364,67.04,5,5
+2332,Toyota Fortuner 2.8 2WD MT,Coimbatore,2017,,Diesel,Manual,First,14.24,2755,174.5,7,28.85
+92,Toyota Fortuner 3.0 Diesel,Pune,2009,,Diesel,Manual,Second,11.5,2982,171,7,10.5
+2925,Toyota Fortuner 3.0 Diesel,Delhi,2011,,Diesel,Manual,First,11.5,2982,171,7,10.75
+4969,Toyota Fortuner 3.0 Diesel,Bangalore,2014,,Diesel,Manual,Second,11.5,2982,171,7,18.5
+732,Toyota Fortuner 4x2 4 Speed AT,Hyderabad,2012,,Diesel,Automatic,First,11.5,2982,169,7,16.5
+2382,Toyota Fortuner 4x2 4 Speed AT,Pune,2012,,Diesel,Automatic,First,11.5,2982,169,7,13.5
+2782,Toyota Fortuner 4x2 AT,Delhi,2013,,Diesel,Automatic,First,12.55,2982,168.5,7,16.5
+4954,Toyota Fortuner 4x2 AT,Hyderabad,2012,,Diesel,Automatic,First,12.55,2982,168.5,7,17.49
+454,Toyota Fortuner 4x2 Manual,Delhi,2014,,Diesel,Manual,First,13,2982,168.5,7,15.5
+4629,Toyota Fortuner 4x2 Manual,Delhi,2012,,Diesel,Manual,First,13,2982,168.5,7,13.25
+4878,Toyota Fortuner 4x2 MT TRD Sportivo,Hyderabad,2015,,Diesel,Manual,First,13,2982,168.7,7,24.5
+3277,Toyota Fortuner 4x4 MT,Coimbatore,2017,,Diesel,Manual,First,12.55,2982,168.5,7,28.42
+2005,Toyota Innova 2.5 G (Diesel) 8 Seater,Chennai,2014,,Diesel,Manual,First,12.99,2494,100.6,8,10.5
+3106,Toyota Innova 2.5 G (Diesel) 8 Seater,Hyderabad,2016,,Diesel,Manual,First,12.99,2494,100.6,8,14.49
+4526,Toyota Innova 2.5 G (Diesel) 8 Seater,Coimbatore,2010,,Diesel,Manual,First,12.99,2494,100.6,8,7.96
+4995,Toyota Innova 2.5 G4 Diesel 8-seater,Hyderabad,2015,,Diesel,Manual,First,12.8,2494,102,8,13.2
+2811,Toyota Innova 2.5 GX (Diesel) 7 Seater,Hyderabad,2009,,Diesel,Manual,First,12.99,2494,100.6,7,7.5
+762,Toyota Innova 2.5 GX (Diesel) 8 Seater BS IV,Ahmedabad,2013,,Diesel,Manual,First,12.8,2494,102,8,8.85
+652,Toyota Innova 2.5 V Diesel 7-seater,Hyderabad,2014,,Diesel,Manual,First,12.8,2494,102,7,12.99
+844,Toyota Innova 2.5 V Diesel 7-seater,Hyderabad,2012,,Diesel,Manual,First,12.8,2494,102,7,12
+1034,Toyota Innova 2.5 V Diesel 7-seater,Delhi,2011,,Diesel,Manual,First,12.8,2494,102,7,7.1
+4768,Toyota Innova 2.5 VX (Diesel) 7 Seater,Ahmedabad,2014,,Diesel,Manual,First,12.99,2494,100.6,7,11.11
+486,Toyota Innova Crysta 2.4 VX MT,Mumbai,2016,,Diesel,Manual,First,13.68,2393,147.8,7,17.11
+4655,Toyota Innova Crysta 2.4 VX MT,Kolkata,2017,,Diesel,Manual,First,13.68,2393,147.8,7,16.95
+2272,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,,Diesel,Manual,First,13.68,2393,147.8,8,21.42
+2827,Toyota Innova Crysta 2.4 ZX MT,Pune,2017,,Diesel,Manual,First,13.68,2393,147.8,7,18.65
+3133,Toyota Prius 2009-2016 Z4,Mumbai,2011,,Electric,Automatic,First,23.59,1798,73,5,12.75
+4821,Toyota Qualis FS B2,Pune,2004,,Diesel,Manual,Second,13.1,2446,75,10,3.5
+2632,Volkswagen Ameo 1.5 TDI Highline,Pune,2016,,Diesel,Manual,First,21.66,1498,108.62,5,6.75
+3958,Volkswagen Jetta 2007-2011 1.9 L TDI,Hyderabad,2010,,Diesel,Manual,First,15,1968,105,5,5.45
+3846,Volkswagen Jetta 2012-2014 1.4 TSI,Coimbatore,2018,,Petrol,Manual,First,14.69,1390,120.33,5,16.8
+2913,Volkswagen Jetta 2012-2014 2.0L TDI Highline AT,Chennai,2011,,Diesel,Automatic,First,16.96,1968,138.1,5,8
+3953,Volkswagen Passat Diesel Highline 2.0 TDI,Hyderabad,2011,,Diesel,Automatic,First,18.33,1968,167.7,5,7.5
+4784,Volkswagen Passat Highline DSG,Kolkata,2012,,Diesel,Automatic,First,14.3,1968,140,5,6.99
+2843,Volkswagen Polo 1.2 MPI Comfortline,Mumbai,2014,,Petrol,Manual,First,16.47,1198,74,5,3.9
+3325,Volkswagen Polo 1.2 MPI Highline,Delhi,2016,,Petrol,Manual,First,16.2,1199,74,5,5.3
+2288,Volkswagen Polo Diesel Comfortline 1.2L,Hyderabad,2011,,Diesel,Manual,First,22.07,1199,73.9,5,4.1
+2377,Volkswagen Polo Diesel Comfortline 1.2L,Delhi,2014,,Diesel,Manual,Second,22.07,1199,73.9,5,4.25
+3016,Volkswagen Polo Diesel Comfortline 1.2L,Delhi,2012,,Diesel,Manual,Second,22.07,1199,73.9,5,2.65
+123,Volkswagen Polo Diesel Highline 1.2L,Kolkata,2010,,Diesel,Manual,First,22.07,1199,73.9,5,2.5
+2609,Volkswagen Polo Diesel Highline 1.2L,Hyderabad,2013,,Diesel,Manual,First,22.07,1199,73.9,5,4.85
+4012,Volkswagen Polo Diesel Highline 1.2L,Hyderabad,2012,,Diesel,Manual,First,22.07,1199,73.9,5,4.2
+4315,Volkswagen Polo Diesel Highline 1.2L,Kolkata,2013,,Diesel,Manual,First,22.07,1199,73.9,5,2.79
+1768,Volkswagen Polo Diesel Trendline 1.2L,Hyderabad,2012,,Diesel,Manual,First,22.07,1199,73.9,5,3.9
+1753,Volkswagen Polo GT TSI,Mumbai,2016,,Petrol,Automatic,First,17.21,1197,103.5,5,7.25
+3644,Volkswagen Polo GTI,Delhi,2015,,Petrol,Automatic,First,17.21,1798,189,4,4.5
+2854,Volkswagen Polo IPL II 1.2 Petrol Highline,Pune,2010,,Petrol,Manual,Second,17.24,1198,73.9,5,2.96
+4691,Volkswagen Polo Petrol Comfortline 1.2L,Jaipur,2011,,Petrol,Manual,First,16.47,1198,73.9,5,3.05
+2692,Volkswagen Polo Petrol Highline 1.2L,Pune,2011,,Petrol,Manual,Second,16.47,1198,73.9,5,3
+4503,Volkswagen Polo Petrol Highline 1.2L,Bangalore,2013,,Petrol,Manual,First,16.47,1198,73.9,5,4.65
+4761,Volkswagen Polo Petrol Highline 1.6L,Chennai,2011,,Petrol,Manual,Second,15.26,1598,103.5,5,3.29
+1175,Volkswagen Polo Petrol Trendline 1.2L,Mumbai,2012,,Petrol,Manual,First,16.47,1198,73.9,5,3.1
+1135,Volkswagen Vento 1.5 TDI Comfortline,Jaipur,2014,,Diesel,Manual,First,20.34,1498,103.2,5,4.75
+3560,Volkswagen Vento 1.5 TDI Comfortline,Coimbatore,2014,,Diesel,Manual,First,20.64,1498,108.5,5,5.39
+3118,Volkswagen Vento 1.5 TDI Highline,Bangalore,2014,,Diesel,Manual,First,20.34,1498,103.2,5,6.5
+554,Volkswagen Vento 1.6 Highline,Jaipur,2016,,Petrol,Manual,First,16.09,1598,103.5,5,7.7
+3890,Volkswagen Vento 1.6 Highline,Coimbatore,2014,,Petrol,Manual,Second,16.09,1598,103.5,5,6.98
+2889,Volkswagen Vento 2013-2015 1.6 Comfortline,Mumbai,2015,,Petrol,Manual,First,15.04,1598,103.2,5,5.49
+3593,Volkswagen Vento Diesel Highline,Bangalore,2012,,Diesel,Manual,First,20.54,1598,103.6,5,5.5
+4514,Volkswagen Vento Petrol Highline AT,Chennai,2011,,Petrol,Automatic,First,14.4,1598,103.6,5,3.75
+2857,Volvo S60 D4 KINETIC,Delhi,2014,,Diesel,Automatic,Second,9,1984,181,5,16
+2179,Volvo S80 2006-2013 D5,Chennai,2010,,Diesel,Automatic,Second,16,2400,215,5,7.25
+404,Volvo V40 D3,Bangalore,2015,,Diesel,Automatic,Second,16.8,1984,150,5,22
+2796,Volvo XC60 D4 SUMMUM,Kochi,2014,,Diesel,Automatic,First,14.7,1984,181,5,17.15
+2942,Volvo XC60 D5 Inscription,Kochi,2014,,Diesel,Automatic,First,11.2,2400,215,5,17.18
